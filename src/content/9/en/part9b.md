@@ -527,7 +527,7 @@ The daily exercise hours are given to the function as an [array](https://www.typ
 [3, 0, 2, 4.5, 0, 3, 1]
 ```
 
-For the Result object, you should create an [interface](https://www.typescriptlang.org/docs/handbook/interfaces.html).
+For the Result object, you should create an [interface](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#interfaces).
 
 If you call the function with parameters *[3, 0, 2, 4.5, 0, 3, 1]* and *2*, it should return:
 
